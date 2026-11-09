@@ -2,8 +2,6 @@
 
 A practical Windows security monitoring project built around a small Active Directory lab. The project collects Windows Security authentication events, normalises them into CSV, applies two explainable detection rules, and validates the rules with repeatable synthetic tests.
 
-> **Project status:** implementation starter / lab project. Replace this status with the verified release status after running the collectors and all tests in your own environment. Do not claim a detection has passed until you have captured its actual output.
-
 ## Objectives
 
 - Build and administer a Windows Server Active Directory domain and a domain-joined Windows endpoint.
