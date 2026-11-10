@@ -1,4 +1,3 @@
-[README-revised.md](https://github.com/user-attachments/files/34630900/README-revised.md)
 # Active Directory Authentication Monitoring Lab
 
 I built this lab to practise collecting and investigating Windows authentication events in an Active Directory environment. It uses PowerShell to collect Security log events from a domain controller and a Windows client, export the relevant fields to CSV, and look for repeated failed logons and possible password-spray activity.
